@@ -4,7 +4,7 @@ A new Flutter project.
 
 aprendizado:
 
-Utilizar o controller
+Utilizar o controller \n
 Utilizar icones no AppBar
 Utilizar funções
 Utilizar TextField
